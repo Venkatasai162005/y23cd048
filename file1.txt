@@ -1,0 +1,1 @@
+DevOps is a set of cultural philosophies, practices, and tools that combines software development (Dev) and IT operations (Ops) to deliver applications and services at high velocity.

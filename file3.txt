@@ -1,0 +1,2 @@
+• Plan & Code: Teams design features, track backlogs, and write source code using version control systems like GitHub or GitLab.
+• Build & Test: Code is compiled and run through automated testing gates to catch bugs early.

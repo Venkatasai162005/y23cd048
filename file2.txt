@@ -1,0 +1,2 @@
+• Shared Ownership: Development and operations teams share responsibility across the entire application lifecycle.
+• Workflow Automation: Manual steps are replaced with automated processes to speed up delivery and reduce errors.
